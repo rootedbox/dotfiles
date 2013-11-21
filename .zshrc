@@ -13,11 +13,15 @@ ZSH=$HOME/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="robbyrussell"
+ZSH_THEME="jj"
 
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias lh="ls -d ~/.??*"
+alias vedit=/Applications/developer/MacVim.app/Contents/MacOS/Vim -g
+alias edhist="edit ~/.zsh_history"
+alias showhist="less ~/.zsh_history"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
