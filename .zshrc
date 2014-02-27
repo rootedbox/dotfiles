@@ -22,6 +22,7 @@ alias lh="ls -d ~/.??*"
 alias vedit=/Applications/developer/MacVim.app/Contents/MacOS/Vim -g
 alias edhist="edit ~/.zsh_history"
 alias showhist="less ~/.zsh_history"
+export TERM="xterm-256color"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
