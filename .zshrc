@@ -52,6 +52,7 @@ unsetopt correct_all
 # Customize to your needs...
 export PATH=~/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/bin:/usr/X11/bin
 
+export ATOM_PATH=/Applications/developer
 # FLEX 4.1 for SNAP/TPHONE-FLEX
 export PATH=$PATH:/opt/boxen/homebrew/Cellar/flex_sdk-4.1/sdk/libexec/bin
 export FLEX_HOME=/opt/boxen/homebrew/Cellar/flex_sdk-4.1/sdk/libexec
